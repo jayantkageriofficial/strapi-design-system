@@ -3826,7 +3826,7 @@ __metadata:
     react: 18.3.1
     react-dom: 18.3.1
     rimraf: 5.0.7
-    storybook: ^9.1.19
+    storybook: ^9.1.21
     styled-components: 6.1.11
     tinycolor2: 1.6.0
     typescript: 5.4.5
@@ -14291,9 +14291,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"storybook@npm:^9.1.19":
-  version: 9.1.20
-  resolution: "storybook@npm:9.1.20"
+"storybook@npm:^9.1.21":
+  version: 9.1.21
+  resolution: "storybook@npm:9.1.21"
   dependencies:
     "@storybook/global": ^5.0.0
     "@testing-library/jest-dom": ^6.6.3
@@ -14314,7 +14314,7 @@ __metadata:
       optional: true
   bin:
     storybook: ./bin/index.cjs
-  checksum: a6e6d5353ab6eff6e5c1051254d7767e3b84e4934930455968350981c404c48992753c3fcababb6639a25d4add9e1851305b2c7f149c89c47782fe1a0de9804f
+  checksum: 80ccad77cb5569cbfb5fd4b21304ca4e08f8bb23551e966e4c7f49988ccf1e98ef24625cfed32fa41d9685d3d226b16bb18e8367053be20060e9e187630daf6c
   languageName: node
   linkType: hard
 
